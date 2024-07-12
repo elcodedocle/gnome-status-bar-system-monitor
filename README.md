@@ -1,3 +1,3 @@
 ## MOVED
 
-This repository resides on https://gitlab.gnome.org/elcodedocle/gnome-status-bar-system-monitor
+This repository resides on https://gitlab.gnome.org/elcodedocle/status-bar-system-monitor
